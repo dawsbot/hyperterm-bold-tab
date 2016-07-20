@@ -4,8 +4,7 @@ exports.decorateConfig = config => {
 		css: `
 			${config.css || ''}
 			.tab_textActive {
-				font-weight: bold;
-				font-size: 1.3em;
+				font-weight: 900;
 			}
 		`
 	});
