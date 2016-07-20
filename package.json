@@ -1,0 +1,20 @@
+{
+  "name": "hyperterm-bold-tab",
+  "version": "1.0.0",
+  "description": "HyperTerm enhancement to bold your current tab text",
+  "license": "MIT",
+  "repository": "dawsonbotsford/hyperterm-bold-tab",
+  "author": {
+    "name": "Dawson Botsford",
+    "email": "DawsonBotsford@gmail.com",
+    "url": "http://dawsonbotsford.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-package",
+    "hyperterm-util"
+  ]
+}
