@@ -1,4 +1,4 @@
-# hyperterm-bold-tab
+# hyperterm-bold-tab [![NPM version][npm-image]][npm-url]
 
 > [HyperTerm](https://hyperterm.org) enhancement to bold your current tab text
 
@@ -15,3 +15,6 @@ Add `hyperterm-bold-tab` to the plugins list in your `~/.hyperterm.js` config fi
 ## License
 
 MIT © [Dawson Botsford](http://dawsonbotsford.com)
+
+[npm-image]: https://badge.fury.io/js/hyperterm-bold-tab.svg
+[npm-url]: https://npmjs.org/package/hyperterm-bold-tab
