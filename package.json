@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-bold-tab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HyperTerm enhancement to bold your current tab text",
   "license": "MIT",
   "repository": "dawsonbotsford/hyperterm-bold-tab",
